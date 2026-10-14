@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "MDiWjUjHeJzaTPndb0rlyPrnt++irkcieQwfeq6mHosQL0+kR8kHVpLlgxdP6p65yd4FRnn3xjCL4JbBhhO4vA==",
+  "success": true,
+  "projectFilePath": "/home/admin/code-web/Gestor-de-citas/Gestor-de-citas.csproj",
+  "expectedPackageFiles": [
+    "/home/admin/.nuget/packages/microsoft.aspnetcore.openapi/8.0.31/microsoft.aspnetcore.openapi.8.0.31.nupkg.sha512",
+    "/home/admin/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/home/admin/.nuget/packages/microsoft.openapi/1.6.30/microsoft.openapi.1.6.30.nupkg.sha512",
+    "/home/admin/.nuget/packages/swashbuckle.aspnetcore/6.6.2/swashbuckle.aspnetcore.6.6.2.nupkg.sha512",
+    "/home/admin/.nuget/packages/swashbuckle.aspnetcore.swagger/6.6.2/swashbuckle.aspnetcore.swagger.6.6.2.nupkg.sha512",
+    "/home/admin/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.6.2/swashbuckle.aspnetcore.swaggergen.6.6.2.nupkg.sha512",
+    "/home/admin/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.6.2/swashbuckle.aspnetcore.swaggerui.6.6.2.nupkg.sha512",
+    "/home/admin/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.31/microsoft.aspnetcore.app.ref.8.0.31.nupkg.sha512"
+  ],
+  "logs": []
+}
